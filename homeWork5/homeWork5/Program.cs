@@ -1,7 +1,5 @@
 ﻿//Odzeli
 using System;
-using System.Runtime.InteropServices;
-
 
 namespace homeWork5
 {
